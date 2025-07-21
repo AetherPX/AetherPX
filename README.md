@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm AetherPX</h1>
 <h3 align="center">A developer from China</h3>
 
-- 🌱 I’m currently learning **Reverse engineering**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
